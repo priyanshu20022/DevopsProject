@@ -26,7 +26,7 @@ namespace Jenkins.API.Context
                 new Project
                 {
                     Id = 2,
-                    Name = "Project 2",
+                    Name = "Project 3",
                     LastModified = DateTime.Now,
                     CreatedOn = DateTime.Now,
                     OwnerId = 2,
