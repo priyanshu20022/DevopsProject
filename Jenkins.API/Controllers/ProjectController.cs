@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Jenkins.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/project")]
     [ApiController]
     public class ProjectController : ControllerBase
     {

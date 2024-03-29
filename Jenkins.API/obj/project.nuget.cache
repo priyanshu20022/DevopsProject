@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nkHBfbcs6nqpIMHY5nuq9oNxsxb4N0wHcQG9ab3aS297hInIP5wMAhKbxWPjZ2uPcgPPOiWrxCgHHwnPbLAzVw==",
+  "dgSpecHash": "ksOf0e8S18QQK1VkqN/FXghwEo7JoF9f/yzfGR52P1LSc+iupqL3uObrurviGqYwZhorAF2MSmFa/b2rX8fY+g==",
   "success": true,
   "projectFilePath": "C:\\Users\\priyanshutyagi\\source\\repos\\Jenkins\\Jenkins.API\\Jenkins.API.csproj",
   "expectedPackageFiles": [
@@ -18,6 +18,7 @@
     "C:\\Users\\priyanshutyagi\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\priyanshutyagi\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\priyanshutyagi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\priyanshutyagi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
     "C:\\Users\\priyanshutyagi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\priyanshutyagi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\priyanshutyagi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

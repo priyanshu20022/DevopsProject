@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xNEmgrK5A/AhLm2HitO2cA3MabP+MR1X8DKCPDsF+kA/y+KTZ0/FdY5Ulxwn9wVOk3mUtvjEkwORpnzsmZiGsg==",
+  "dgSpecHash": "FEoFq3vXlEaSRES3vD9ueWFqkrh22l8xNUJbJPFNjp1DEfJht9fbmxIDz2h4GsTAkeAX0yenk/gNlbiUBk5q3A==",
   "success": true,
   "projectFilePath": "C:\\Users\\priyanshutyagi\\source\\repos\\Jenkins\\Jenkins.Test\\Jenkins.Test.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,7 @@
     "C:\\Users\\priyanshutyagi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\priyanshutyagi\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
     "C:\\Users\\priyanshutyagi\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "C:\\Users\\priyanshutyagi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
     "C:\\Users\\priyanshutyagi\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\priyanshutyagi\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\priyanshutyagi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",

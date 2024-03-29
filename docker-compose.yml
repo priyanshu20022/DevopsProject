@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  jenkins.api:
+    container_name: jenkins-api
+    image: ${DOCKER_REGISTRY-}jenkinsapi
+    build:
+      context: .
+      dockerfile: Jenkins.API/Dockerfile
+    ports:
+      - 8001:80
