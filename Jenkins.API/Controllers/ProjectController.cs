@@ -23,7 +23,7 @@ namespace Jenkins.API.Controllers
             var projects = await _projectContext.Projects.ToListAsync();
             return Ok(projects);
         }
-
+        //
         [HttpPost("add")]
         public async Task<IActionResult> AddProject([FromBody] Project projectObj)
         {
