@@ -60,10 +60,9 @@ namespace Jenkins.Test
 
                 // Assert
                 var okResult = Assert.IsType<OkObjectResult>(result);
-                var resultValue = okResult.Value as object; // Cast to object
-                Assert.NotNull(resultValue); // Ensure the result value is not null
+                var resultValue = okResult.Value as object; 
+                Assert.NotNull(resultValue); 
 
-                // Use reflection to retrieve the 'Message' property value
                 var messageProperty = resultValue.GetType().GetProperty("Message");
                 if (messageProperty == null)
                 {
@@ -71,9 +70,8 @@ namespace Jenkins.Test
                 }
                 var message = messageProperty.GetValue(resultValue) as string;
 
-                // Assert the content of the 'Message' property
-                Assert.NotNull(message); // Ensure the message is not null
-                Assert.Equal("Project added successfully!", message); // Assert the message content
+                Assert.NotNull(message); 
+                Assert.Equal("Project added successfully!", message); 
             }
         }
 
