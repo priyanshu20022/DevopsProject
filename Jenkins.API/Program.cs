@@ -14,12 +14,8 @@ builder.Services.AddSwaggerGen();
 var app = builder.Build();
 using (var scope = app.Services.CreateScope())
 {
-    // 3. Get the instance of HRMContext in our service layer
     var services = scope.ServiceProvider;
     var context = services.GetRequiredService<AppDbContext>();
-
-    // 4. Call the SeedDataGenerator to generate seed data
-    //SeedDataGenerator.Initialize(services);
 }
 
 // Configure the HTTP request pipeline.
@@ -28,8 +24,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
-//app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
